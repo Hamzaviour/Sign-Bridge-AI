@@ -8,6 +8,7 @@
 
 Fingerspell to your webcam and it's spoken aloud. Talk back and an animated buddy signs it to you. Everything runs in the browser.
 
+[![Live demo](https://img.shields.io/badge/Live_demo-signbridge--ruby.vercel.app-ff5aa8?logo=vercel&logoColor=white)](https://signbridge-ruby.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -15,7 +16,7 @@ Fingerspell to your webcam and it's spoken aloud. Talk back and an animated budd
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Landmarker-0097A7?logo=google&logoColor=white)](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
 [![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/Hamzaviour/Sign-Bridge-AI)
 
-[Features](#features) · [Screenshots](#screenshots) · [How it works](#how-it-works) · [Getting started](#getting-started) · [Project structure](#project-structure) · [Roadmap](#roadmap)
+**[▶ Try it live](https://signbridge-ruby.vercel.app/)** · [Features](#features) · [Screenshots](#screenshots) · [How it works](#how-it-works) · [Getting started](#getting-started) · [Project structure](#project-structure) · [Roadmap](#roadmap)
 
 </div>
 
@@ -221,7 +222,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:3000**.
+Open **http://localhost:3000**, or try the hosted version at **https://signbridge-ruby.vercel.app/**.
 
 ### Scripts
 
